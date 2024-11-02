@@ -1,6 +1,6 @@
-# Bookmark
+# Bookmarker
 
-Bookmark is a simple web application that allows users to save their favorite websites for quick access. It utilizes HTML, CSS, JavaScript (ES6+), Bootstrap 5, and Font Awesome 6 for styling and functionality.
+Bookmarker is a simple web application that allows users to save their favorite websites for quick access. It utilizes HTML, CSS, JavaScript (ES6+), Bootstrap 5, and Font Awesome 6 for styling and functionality.
 
 ## Features
 
